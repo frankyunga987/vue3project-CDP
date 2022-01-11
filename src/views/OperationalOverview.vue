@@ -22,19 +22,19 @@
             class="number-div d-flex align-items-center justify-content-between " :class="all?'':'online-width flex-wrap align-content-center'"
           >
             <span style="color: #71afb6; font-size: 20px">營業額</span>
-            <span style="font-size: 24px">79,972,833&nbsp;&nbsp;&nbsp;($)</span>
+            <span style="font-size: 24px">79,972,833&nbsp;($)</span>
           </div>
           <div
-            class="number-div d-flex align-items-center justify-content-between" :class="all?'':'online-width'"
+            class="number-div d-flex align-items-center justify-content-between" :class="all?'':'online-width flex-wrap align-content-center'"
           > 
             <span style="color: #71afb6; font-size: 20px">客單價</span>
-            <span style="font-size: 24px">1,874&nbsp;&nbsp;&nbsp;($)</span>
+            <span style="font-size: 24px">1,874&nbsp;($)</span>
           </div>
           <div
-            class="number-div d-flex align-items-center justify-content-between" :class="all?'':'online-width'"
+            class="number-div d-flex align-items-center justify-content-between" :class="all?'':'online-width flex-wrap align-content-center'"
           >
             <span style="color: #71afb6; font-size: 20px">訂單數</span>
-            <span style="font-size: 24px">39,470&nbsp;&nbsp;&nbsp;($)</span>
+            <span style="font-size: 24px">39,470&nbsp;($)</span>
           </div>
         </div>
         <div class="col-7 line-bar-div" :class="all?'col-7':'col-12'">
